@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "naumovs.color-highlight",
+    "wallabyjs.console-ninja",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "pranaygp.vscode-css-peek",
+    "rocketseat.rocketseatreactjs",
+    "csstools.postcss",
+    "pkief.material-icon-theme",
+    "formulahendry.auto-rename-tag",
+    "mechatroner.rainbow-csv"
+  ]
+}
